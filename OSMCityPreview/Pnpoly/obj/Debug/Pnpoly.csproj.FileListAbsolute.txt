@@ -1,0 +1,14 @@
+D:\Projects\Pnpoly\Pnpoly\bin\Debug\Pnpoly.exe.config
+D:\Projects\Pnpoly\Pnpoly\bin\Debug\Pnpoly.exe
+D:\Projects\Pnpoly\Pnpoly\bin\Debug\Pnpoly.pdb
+D:\Projects\Pnpoly\Pnpoly\obj\Debug\Pnpoly.csproj.CoreCompileInputs.cache
+D:\Projects\Pnpoly\Pnpoly\obj\Debug\Pnpoly.exe
+D:\Projects\Pnpoly\Pnpoly\obj\Debug\Pnpoly.pdb
+D:\Projects\Pnpoly\Pnpoly\obj\Debug\Pnpoly.csprojAssemblyReference.cache
+D:\Projects\OSMCity\OSMCityPreview\Pnpoly\bin\Debug\Pnpoly.exe.config
+D:\Projects\OSMCity\OSMCityPreview\Pnpoly\bin\Debug\Pnpoly.exe
+D:\Projects\OSMCity\OSMCityPreview\Pnpoly\bin\Debug\Pnpoly.pdb
+D:\Projects\OSMCity\OSMCityPreview\Pnpoly\obj\Debug\Pnpoly.csprojAssemblyReference.cache
+D:\Projects\OSMCity\OSMCityPreview\Pnpoly\obj\Debug\Pnpoly.csproj.CoreCompileInputs.cache
+D:\Projects\OSMCity\OSMCityPreview\Pnpoly\obj\Debug\Pnpoly.exe
+D:\Projects\OSMCity\OSMCityPreview\Pnpoly\obj\Debug\Pnpoly.pdb

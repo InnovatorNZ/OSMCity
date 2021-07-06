@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.2 (1224 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="48.8699900" minlon="2.3072300" maxlat="48.8700700" maxlon="2.3073200"/>
+ <node id="956519004" visible="true" version="2" changeset="24421830" timestamp="2014-07-29T13:19:41Z" user="osmmaker" uid="210173" lat="48.8700417" lon="2.3072356"/>
+ <node id="956519037" visible="true" version="2" changeset="24421830" timestamp="2014-07-29T13:19:41Z" user="osmmaker" uid="210173" lat="48.8700439" lon="2.3073141"/>
+ <node id="956519061" visible="true" version="2" changeset="24421830" timestamp="2014-07-29T13:19:41Z" user="osmmaker" uid="210173" lat="48.8700630" lon="2.3072503"/>
+ <node id="956519093" visible="true" version="2" changeset="24421830" timestamp="2014-07-29T13:19:41Z" user="osmmaker" uid="210173" lat="48.8700226" lon="2.3072994"/>
+ <way id="82144903" visible="true" version="4" changeset="24421938" timestamp="2014-07-29T13:25:07Z" user="osmmaker" uid="210173">
+  <nd ref="956519004"/>
+  <nd ref="956519061"/>
+  <nd ref="956519037"/>
+  <nd ref="956519093"/>
+  <nd ref="956519004"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Kiosque"/>
+  <tag k="shop" v="newsagent"/>
+  <tag k="source" v="survey; bing"/>
+ </way>
+</osm>

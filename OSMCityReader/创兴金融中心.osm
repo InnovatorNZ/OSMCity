@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.2 (4521 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="31.2337900" minlon="121.4656500" maxlat="31.2343900" maxlon="121.4661600"/>
+ <node id="476675362" visible="true" version="3" changeset="79325197" timestamp="2020-01-08T06:34:28Z" user="Hervé TUC" uid="922338" lat="31.2340010" lon="121.4663655"/>
+ <node id="619220428" visible="true" version="3" changeset="77062026" timestamp="2019-11-14T09:30:51Z" user="Hervé TUC" uid="922338" lat="31.2338578" lon="121.4658889"/>
+ <node id="3731403403" visible="true" version="1" changeset="33828331" timestamp="2015-09-06T09:02:53Z" user="u_kubota" uid="421504" lat="31.2338557" lon="121.4660928"/>
+ <node id="3731403413" visible="true" version="1" changeset="33828331" timestamp="2015-09-06T09:02:54Z" user="u_kubota" uid="421504" lat="31.2339265" lon="121.4658898"/>
+ <node id="3731403414" visible="true" version="1" changeset="33828331" timestamp="2015-09-06T09:02:54Z" user="u_kubota" uid="421504" lat="31.2339279" lon="121.4657573"/>
+ <node id="3731403456" visible="true" version="1" changeset="33828331" timestamp="2015-09-06T09:02:55Z" user="u_kubota" uid="421504" lat="31.2342162" lon="121.4660977"/>
+ <node id="3731403458" visible="true" version="1" changeset="33828331" timestamp="2015-09-06T09:02:55Z" user="u_kubota" uid="421504" lat="31.2342175" lon="121.4659756"/>
+ <node id="3731403473" visible="true" version="1" changeset="33828331" timestamp="2015-09-06T09:02:55Z" user="u_kubota" uid="421504" lat="31.2342808" lon="121.4659765"/>
+ <node id="3731403475" visible="true" version="1" changeset="33828331" timestamp="2015-09-06T09:02:55Z" user="u_kubota" uid="421504" lat="31.2342830" lon="121.4657622"/>
+ <node id="3906828082" visible="true" version="1" changeset="36129634" timestamp="2015-12-23T16:44:09Z" user="Chris Parker" uid="51722" lat="31.2356254" lon="121.4653626"/>
+ <node id="3906828083" visible="true" version="1" changeset="36129634" timestamp="2015-12-23T16:44:09Z" user="Chris Parker" uid="51722" lat="31.2354057" lon="121.4654844"/>
+ <node id="3906828084" visible="true" version="1" changeset="36129634" timestamp="2015-12-23T16:44:09Z" user="Chris Parker" uid="51722" lat="31.2352566" lon="121.4654656"/>
+ <node id="3906828085" visible="true" version="1" changeset="36129634" timestamp="2015-12-23T16:44:09Z" user="Chris Parker" uid="51722" lat="31.2342269" lon="121.4661174"/>
+ <node id="3906828086" visible="true" version="1" changeset="36129634" timestamp="2015-12-23T16:44:09Z" user="Chris Parker" uid="51722" lat="31.2346489" lon="121.4657901"/>
+ <node id="3906828087" visible="true" version="1" changeset="36129634" timestamp="2015-12-23T16:44:09Z" user="Chris Parker" uid="51722" lat="31.2343415" lon="121.4659886"/>
+ <node id="5436983603" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2351753" lon="121.4670535"/>
+ <node id="5436983604" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2351220" lon="121.4670175"/>
+ <node id="5436983605" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2350748" lon="121.4669911"/>
+ <node id="5436983606" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2349680" lon="121.4668590"/>
+ <node id="5436983607" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2348880" lon="121.4667894"/>
+ <node id="5436983608" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2346006" lon="121.4665710"/>
+ <node id="5436983609" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2344877" lon="121.4664989"/>
+ <node id="5436983610" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2341285" lon="121.4663237"/>
+ <node id="5436983611" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2338068" lon="121.4661879"/>
+ <node id="5436983612" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2336855" lon="121.4661342"/>
+ <node id="5436983613" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2336433" lon="121.4661019"/>
+ <node id="5436983615" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2336186" lon="121.4660178"/>
+ <node id="5436983731" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:46Z" user="Stenive" uid="3836466" lat="31.2337976" lon="121.4658142"/>
+ <node id="7116097510" visible="true" version="1" changeset="79325197" timestamp="2020-01-08T06:34:28Z" user="Hervé TUC" uid="922338" lat="31.2340215" lon="121.4662816"/>
+ <way id="369342602" visible="true" version="5" changeset="77062026" timestamp="2019-11-14T09:31:16Z" user="Hervé TUC" uid="922338">
+  <nd ref="3731403475"/>
+  <nd ref="3731403473"/>
+  <nd ref="3731403458"/>
+  <nd ref="3731403456"/>
+  <nd ref="3731403403"/>
+  <nd ref="619220428"/>
+  <nd ref="3731403413"/>
+  <nd ref="3731403414"/>
+  <nd ref="3731403475"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="174"/>
+  <tag k="name" v="创兴金融中心"/>
+  <tag k="name:en" v="Chong Hing Finance Center"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="387381528" visible="true" version="3" changeset="79325197" timestamp="2020-01-08T06:34:30Z" user="Hervé TUC" uid="922338">
+  <nd ref="3906828082"/>
+  <nd ref="3906828083"/>
+  <nd ref="3906828084"/>
+  <nd ref="3906828086"/>
+  <nd ref="3906828087"/>
+  <nd ref="3906828085"/>
+  <nd ref="7116097510"/>
+  <nd ref="476675362"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="564255387" visible="true" version="3" changeset="79325197" timestamp="2020-01-08T06:34:30Z" user="Hervé TUC" uid="922338">
+  <nd ref="5436983603"/>
+  <nd ref="5436983604"/>
+  <nd ref="5436983605"/>
+  <nd ref="5436983606"/>
+  <nd ref="5436983607"/>
+  <nd ref="5436983608"/>
+  <nd ref="5436983609"/>
+  <nd ref="5436983610"/>
+  <nd ref="7116097510"/>
+  <nd ref="5436983611"/>
+  <nd ref="5436983612"/>
+  <nd ref="5436983613"/>
+  <nd ref="5436983615"/>
+  <nd ref="5436983731"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+</osm>

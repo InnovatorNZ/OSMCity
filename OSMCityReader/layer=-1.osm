@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.2 (19805 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="31.2354100" minlon="121.4688400" maxlat="31.2355700" maxlon="121.4700400"/>
+ <node id="477665815" visible="true" version="6" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2357182" lon="121.4694502">
+  <tag k="name" v="6"/>
+  <tag k="railway" v="subway_entrance"/>
+  <tag k="ref" v="6"/>
+ </node>
+ <node id="477666011" visible="true" version="5" changeset="56683706" timestamp="2018-02-26T09:28:49Z" user="Stenive" uid="3836466" lat="31.2357977" lon="121.4696168">
+  <tag k="name" v="5"/>
+  <tag k="railway" v="subway_entrance"/>
+  <tag k="ref" v="5"/>
+ </node>
+ <node id="1728701637" visible="true" version="2" changeset="77055743" timestamp="2019-11-14T07:35:50Z" user="Hervé TUC" uid="922338" lat="31.2349263" lon="121.4672165"/>
+ <node id="1928818247" visible="true" version="2" changeset="56685118" timestamp="2018-02-26T10:15:52Z" user="Stenive" uid="3836466" lat="31.2351676" lon="121.4676793"/>
+ <node id="1928818255" visible="true" version="2" changeset="50932724" timestamp="2017-08-08T04:16:23Z" user="Stenive" uid="3836466" lat="31.2352859" lon="121.4682838"/>
+ <node id="1928818258" visible="true" version="1" changeset="13219072" timestamp="2012-09-23T12:04:23Z" user="sinopitt" uid="253683" lat="31.2353155" lon="121.4684767"/>
+ <node id="1928818262" visible="true" version="1" changeset="13219072" timestamp="2012-09-23T12:04:23Z" user="sinopitt" uid="253683" lat="31.2353394" lon="121.4695592"/>
+ <node id="1928818266" visible="true" version="1" changeset="13219072" timestamp="2012-09-23T12:04:23Z" user="sinopitt" uid="253683" lat="31.2353747" lon="121.4689003"/>
+ <node id="1928818270" visible="true" version="1" changeset="13219072" timestamp="2012-09-23T12:04:23Z" user="sinopitt" uid="253683" lat="31.2354644" lon="121.4695425"/>
+ <node id="5021315068" visible="true" version="2" changeset="55227824" timestamp="2018-01-07T05:35:17Z" user="Stenive" uid="3836466" lat="31.2333407" lon="121.4715246"/>
+ <node id="5021315069" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:15Z" user="Stenive" uid="3836466" lat="31.2332660" lon="121.4713824"/>
+ <node id="5021315070" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:15Z" user="Stenive" uid="3836466" lat="31.2345102" lon="121.4705532"/>
+ <node id="5021315076" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2349334" lon="121.4693310"/>
+ <node id="5021315077" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2349120" lon="121.4695225"/>
+ <node id="5021315078" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:15Z" user="Stenive" uid="3836466" lat="31.2348482" lon="121.4698240"/>
+ <node id="5021315079" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:15Z" user="Stenive" uid="3836466" lat="31.2347824" lon="121.4700035"/>
+ <node id="5021315080" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:15Z" user="Stenive" uid="3836466" lat="31.2346486" lon="121.4703173"/>
+ <node id="5021315092" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:15Z" user="Stenive" uid="3836466" lat="31.2344856" lon="121.4676680"/>
+ <node id="5021315113" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:15Z" user="Stenive" uid="3836466" lat="31.2358470" lon="121.4696578"/>
+ <node id="5021315114" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:15Z" user="Stenive" uid="3836466" lat="31.2355698" lon="121.4693756"/>
+ <node id="5021317146" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2356094" lon="121.4692018"/>
+ <node id="5021317155" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:16Z" user="Stenive" uid="3836466" lat="31.2350747" lon="121.4692718"/>
+ <node id="5021317180" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:16Z" user="Stenive" uid="3836466" lat="31.2354793" lon="121.4703524"/>
+ <node id="5021317215" visible="true" version="3" changeset="79325197" timestamp="2020-01-08T06:34:30Z" user="Hervé TUC" uid="922338" lat="31.2350990" lon="121.4675200"/>
+ <node id="5021317216" visible="true" version="2" changeset="56685118" timestamp="2018-02-26T10:15:52Z" user="Stenive" uid="3836466" lat="31.2350242" lon="121.4673474"/>
+ <node id="5021317218" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:17Z" user="Stenive" uid="3836466" lat="31.2352207" lon="121.4678476"/>
+ <node id="5021317219" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2355299" lon="121.4701491"/>
+ <node id="5021317220" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:17Z" user="Stenive" uid="3836466" lat="31.2355212" lon="121.4702506"/>
+ <node id="5021317221" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:17Z" user="Stenive" uid="3836466" lat="31.2355037" lon="121.4703035"/>
+ <node id="5324966584" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2349474" lon="121.4691382"/>
+ <node id="5324966585" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2349422" lon="121.4689025"/>
+ <node id="5324966586" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2349230" lon="121.4687266"/>
+ <node id="5324966587" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2348811" lon="121.4685113"/>
+ <node id="5324966588" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2347943" lon="121.4682447"/>
+ <node id="5324966589" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2345914" lon="121.4678256"/>
+ <node id="5324966590" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2341336" lon="121.4670887"/>
+ <node id="5324966591" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:50Z" user="Stenive" uid="3836466" lat="31.2342796" lon="121.4669557"/>
+ <node id="5324966594" visible="true" version="1" changeset="55227824" timestamp="2018-01-07T05:35:16Z" user="Stenive" uid="3836466" lat="31.2354372" lon="121.4701181"/>
+ <node id="5436982338" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:42Z" user="Stenive" uid="3836466" lat="31.2355884" lon="121.4700237"/>
+ <node id="5436982339" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:42Z" user="Stenive" uid="3836466" lat="31.2354479" lon="121.4696454"/>
+ <node id="5436982340" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:42Z" user="Stenive" uid="3836466" lat="31.2357825" lon="121.4692632"/>
+ <node id="5436982341" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:42Z" user="Stenive" uid="3836466" lat="31.2353463" lon="121.4692922"/>
+ <node id="5436982342" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:42Z" user="Stenive" uid="3836466" lat="31.2354229" lon="121.4698576"/>
+ <node id="5436982343" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:42Z" user="Stenive" uid="3836466" lat="31.2353819" lon="121.4696656"/>
+ <node id="5436982344" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:42Z" user="Stenive" uid="3836466" lat="31.2353426" lon="121.4701888"/>
+ <node id="5436982345" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:42Z" user="Stenive" uid="3836466" lat="31.2355376" lon="121.4692643"/>
+ <node id="5437083675" visible="true" version="1" changeset="56685118" timestamp="2018-02-26T10:15:49Z" user="Stenive" uid="3836466" lat="31.2350838" lon="121.4674865"/>
+ <node id="5437083685" visible="true" version="1" changeset="56685118" timestamp="2018-02-26T10:15:49Z" user="Stenive" uid="3836466" lat="31.2349652" lon="121.4672434"/>
+ <way id="182520949" visible="true" version="1" changeset="13219072" timestamp="2012-09-23T12:04:25Z" user="sinopitt" uid="253683">
+  <nd ref="1928818270"/>
+  <nd ref="1928818262"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="513764717" visible="true" version="7" changeset="83620294" timestamp="2020-04-16T03:34:25Z" user="Hervé TUC" uid="922338">
+  <nd ref="5021315068"/>
+  <nd ref="5021315069"/>
+  <nd ref="5021315070"/>
+  <nd ref="5021315080"/>
+  <nd ref="5021315079"/>
+  <nd ref="5021315078"/>
+  <nd ref="5021315077"/>
+  <nd ref="5436982339"/>
+  <nd ref="5436982338"/>
+  <nd ref="5324966594"/>
+  <nd ref="5021315068"/>
+  <tag k="description" v="1号线 - For Line 1 - 请不要合并"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="internet_access" v="wlan"/>
+  <tag k="layer" v="-1"/>
+  <tag k="name" v="人民广场"/>
+  <tag k="name:en" v="People's Square"/>
+  <tag k="name:zh" v="人民广场"/>
+  <tag k="network" v="上海地铁"/>
+  <tag k="public_transport" v="station"/>
+  <tag k="railway" v="station"/>
+  <tag k="station" v="subway"/>
+  <tag k="subway" v="yes"/>
+ </way>
+ <way id="513764718" visible="true" version="2" changeset="55227824" timestamp="2018-01-07T05:35:17Z" user="Stenive" uid="3836466">
+  <nd ref="5021315092"/>
+  <nd ref="5021315114"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="gauge" v="1435"/>
+  <tag k="layer" v="-1"/>
+  <tag k="railway" v="subway"/>
+  <tag k="service" v="siding"/>
+  <tag k="tunnel" v="yes"/>
+ </way>
+ <way id="513764721" visible="true" version="1" changeset="50932724" timestamp="2017-08-08T04:16:18Z" user="Stenive" uid="3836466">
+  <nd ref="5021315113"/>
+  <nd ref="5021315114"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="gauge" v="1435"/>
+  <tag k="layer" v="-1"/>
+  <tag k="railway" v="subway"/>
+  <tag k="service" v="crossover"/>
+  <tag k="tunnel" v="yes"/>
+ </way>
+ <way id="513764728" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:52Z" user="Stenive" uid="3836466">
+  <nd ref="477665815"/>
+  <nd ref="5436982345"/>
+  <nd ref="5021317146"/>
+  <tag k="highway" v="footway"/>
+  <tag k="layer" v="-1"/>
+  <tag k="tunnel" v="yes"/>
+ </way>
+ <way id="513764729" visible="true" version="2" changeset="56683706" timestamp="2018-02-26T09:28:52Z" user="Stenive" uid="3836466">
+  <nd ref="5436982342"/>
+  <nd ref="477666011"/>
+  <tag k="highway" v="footway"/>
+  <tag k="layer" v="-1"/>
+  <tag k="tunnel" v="yes"/>
+ </way>
+ <way id="513764749" visible="true" version="4" changeset="77055743" timestamp="2019-11-14T07:35:54Z" user="Hervé TUC" uid="922338">
+  <nd ref="5021317180"/>
+  <nd ref="5021317221"/>
+  <nd ref="5021317220"/>
+  <nd ref="5021317219"/>
+  <nd ref="1928818270"/>
+  <nd ref="1928818266"/>
+  <nd ref="1928818258"/>
+  <nd ref="1928818255"/>
+  <nd ref="5021317218"/>
+  <nd ref="1928818247"/>
+  <nd ref="5021317215"/>
+  <nd ref="5437083675"/>
+  <nd ref="5021317216"/>
+  <nd ref="5437083685"/>
+  <nd ref="1728701637"/>
+  <tag k="footway" v="sidewalk"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="551373969" visible="true" version="4" changeset="83620294" timestamp="2020-04-16T03:34:25Z" user="Hervé TUC" uid="922338">
+  <nd ref="5324966591"/>
+  <nd ref="5324966590"/>
+  <nd ref="5324966589"/>
+  <nd ref="5324966588"/>
+  <nd ref="5324966587"/>
+  <nd ref="5324966586"/>
+  <nd ref="5324966585"/>
+  <nd ref="5324966584"/>
+  <nd ref="5021315076"/>
+  <nd ref="5021315077"/>
+  <nd ref="5436982339"/>
+  <nd ref="5436982340"/>
+  <nd ref="5324966591"/>
+  <tag k="description" v="2号线 - For Line 2 - 请不要合并"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="internet_access" v="wlan"/>
+  <tag k="layer" v="-1"/>
+  <tag k="name" v="人民广场"/>
+  <tag k="name:en" v="People's Square"/>
+  <tag k="name:zh" v="人民广场"/>
+  <tag k="network" v="上海地铁"/>
+  <tag k="public_transport" v="station"/>
+  <tag k="railway" v="station"/>
+  <tag k="station" v="subway"/>
+  <tag k="subway" v="yes"/>
+ </way>
+ <way id="564255294" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:47Z" user="Stenive" uid="3836466">
+  <nd ref="5436982341"/>
+  <nd ref="5436982343"/>
+  <nd ref="5436982342"/>
+  <nd ref="5436982344"/>
+  <tag k="highway" v="footway"/>
+  <tag k="layer" v="-1"/>
+  <tag k="tunnel" v="yes"/>
+ </way>
+ <way id="564255299" visible="true" version="1" changeset="56683706" timestamp="2018-02-26T09:28:47Z" user="Stenive" uid="3836466">
+  <nd ref="5436982345"/>
+  <nd ref="5436982341"/>
+  <nd ref="5021317155"/>
+  <tag k="highway" v="footway"/>
+  <tag k="layer" v="-1"/>
+  <tag k="tunnel" v="yes"/>
+ </way>
+ <relation id="5611323" visible="true" version="5" changeset="55227863" timestamp="2018-01-07T05:40:51Z" user="Stenive" uid="3836466">
+  <member type="node" ref="3800386158" role="stop"/>
+  <member type="node" ref="3800386157" role="stop"/>
+  <member type="way" ref="513764717" role="station"/>
+  <member type="node" ref="477666637" role="entrance"/>
+  <member type="node" ref="1890935410" role="entrance"/>
+  <member type="node" ref="477666889" role="entrance"/>
+  <member type="node" ref="1990174510" role="entrance"/>
+  <member type="node" ref="1990203599" role="entrance"/>
+  <member type="node" ref="1172174594" role="entrance"/>
+  <member type="node" ref="1172174596" role="entrance"/>
+  <member type="node" ref="1990203594" role="entrance"/>
+  <tag k="name" v="人民广场"/>
+  <tag k="name:en" v="People's Square"/>
+  <tag k="name:zh" v="人民广场"/>
+  <tag k="note" v="1号线 - For Line 1"/>
+  <tag k="public_transport" v="stop_area"/>
+  <tag k="type" v="public_transport"/>
+ </relation>
+ <relation id="7882982" visible="true" version="2" changeset="55227863" timestamp="2018-01-07T05:40:51Z" user="Stenive" uid="3836466">
+  <member type="way" ref="551373969" role="station"/>
+  <member type="node" ref="3800386160" role="stop"/>
+  <member type="node" ref="3800386159" role="stop"/>
+  <member type="node" ref="477665815" role="entrance"/>
+  <member type="node" ref="477665906" role="entrance"/>
+  <member type="node" ref="1990203600" role="entrance"/>
+  <member type="node" ref="477666311" role="entrance"/>
+  <member type="node" ref="477666101" role="entrance"/>
+  <member type="node" ref="1172174599" role="entrance"/>
+  <member type="node" ref="477666373" role="entrance"/>
+  <member type="node" ref="1990203597" role="entrance"/>
+  <member type="node" ref="477666011" role="entrance"/>
+  <tag k="name" v="人民广场"/>
+  <tag k="name:en" v="People's Square"/>
+  <tag k="name:zh" v="人民广场"/>
+  <tag k="note" v="2号线 - For Line 2"/>
+  <tag k="public_transport" v="stop_area"/>
+  <tag k="type" v="public_transport"/>
+ </relation>
+ <relation id="7882984" visible="true" version="1" changeset="55227824" timestamp="2018-01-07T05:35:17Z" user="Stenive" uid="3836466">
+  <member type="relation" ref="5611323" role=""/>
+  <member type="relation" ref="7882982" role=""/>
+  <member type="relation" ref="7882983" role=""/>
+  <tag k="name" v="人民广场"/>
+  <tag k="name:en" v="People's Square"/>
+  <tag k="name:zh" v="人民广场"/>
+  <tag k="public_transport" v="stop_area_group"/>
+  <tag k="type" v="public_transport"/>
+  <tag k="wikidata" v="Q964221"/>
+  <tag k="wikipedia" v="en:People's Square Station"/>
+ </relation>
+</osm>

@@ -1,0 +1,9 @@
+{
+  "name": "osmbuilding-generator--java-script-",
+  "version": "0.0.0",
+  "description": "OSMBuildingGenerator (JavaScript)",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

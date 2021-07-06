@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.2 (16948 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="48.8675900" minlon="2.3075000" maxlat="48.8676200" maxlon="2.3075500"/>
+ <node id="1939935967" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8675997" lon="2.3075260"/>
+ <node id="1939935968" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8675999" lon="2.3075217"/>
+ <node id="1939935970" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8676006" lon="2.3075295"/>
+ <node id="1939935972" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8676007" lon="2.3075187"/>
+ <node id="1939935975" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8676019" lon="2.3075167"/>
+ <node id="1939935977" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8676030" lon="2.3075329"/>
+ <node id="1939935979" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8676050" lon="2.3075144"/>
+ <node id="1939935981" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8676057" lon="2.3075342"/>
+ <node id="1939935984" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8676087" lon="2.3075335"/>
+ <node id="1939935986" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8676089" lon="2.3075150"/>
+ <node id="1939935988" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8676111" lon="2.3075174"/>
+ <node id="1939935991" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8676117" lon="2.3075299"/>
+ <node id="1939935993" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8676127" lon="2.3075215"/>
+ <node id="1939935994" visible="true" version="1" changeset="13311044" timestamp="2012-09-30T15:38:32Z" user="eric_G" uid="456113" lat="48.8676128" lon="2.3075256"/>
+ <way id="183587138" visible="true" version="3" changeset="63335678" timestamp="2018-10-09T08:09:51Z" user="kalgan" uid="120588">
+  <nd ref="1939935993"/>
+  <nd ref="1939935994"/>
+  <nd ref="1939935991"/>
+  <nd ref="1939935984"/>
+  <nd ref="1939935981"/>
+  <nd ref="1939935977"/>
+  <nd ref="1939935970"/>
+  <nd ref="1939935967"/>
+  <nd ref="1939935968"/>
+  <nd ref="1939935972"/>
+  <nd ref="1939935975"/>
+  <nd ref="1939935979"/>
+  <nd ref="1939935986"/>
+  <nd ref="1939935988"/>
+  <nd ref="1939935993"/>
+  <tag k="area" v="yes"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="lit" v="yes"/>
+  <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+</osm>

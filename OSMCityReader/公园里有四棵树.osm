@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.1 (12266 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="48.8690900" minlon="2.3113100" maxlat="48.8693100" maxlon="2.3118000"/>
+ <node id="810136446" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:12Z" user="Pieren" uid="17286" lat="48.8692577" lon="2.3114087"/>
+ <node id="810136456" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:12Z" user="Pieren" uid="17286" lat="48.8692601" lon="2.3116029"/>
+ <node id="810136467" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:13Z" user="Pieren" uid="17286" lat="48.8694144" lon="2.3115466"/>
+ <node id="810136470" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:13Z" user="Pieren" uid="17286" lat="48.8693176" lon="2.3114075"/>
+ <node id="810136476" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:13Z" user="Pieren" uid="17286" lat="48.8694212" lon="2.3115320"/>
+ <node id="810136496" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:13Z" user="Pieren" uid="17286" lat="48.8692625" lon="2.3114405"/>
+ <node id="810136517" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:14Z" user="Pieren" uid="17286" lat="48.8689694" lon="2.3116880"/>
+ <node id="810136525" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:14Z" user="Pieren" uid="17286" lat="48.8692712" lon="2.3111812"/>
+ <node id="810136538" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:14Z" user="Pieren" uid="17286" lat="48.8692765" lon="2.3115715"/>
+ <node id="810136541" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:14Z" user="Pieren" uid="17286" lat="48.8692599" lon="2.3112165"/>
+ <node id="810136544" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:14Z" user="Pieren" uid="17286" lat="48.8692193" lon="2.3114885"/>
+ <node id="810136563" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:15Z" user="Pieren" uid="17286" lat="48.8692006" lon="2.3116807"/>
+ <node id="810136568" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:15Z" user="Pieren" uid="17286" lat="48.8693671" lon="2.3115629"/>
+ <node id="810136576" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:15Z" user="Pieren" uid="17286" lat="48.8693367" lon="2.3114952"/>
+ <node id="810136582" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:15Z" user="Pieren" uid="17286" lat="48.8690306" lon="2.3114526"/>
+ <node id="810136585" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:15Z" user="Pieren" uid="17286" lat="48.8692967" lon="2.3113993"/>
+ <node id="810136587" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:15Z" user="Pieren" uid="17286" lat="48.8693102" lon="2.3114360"/>
+ <node id="810136595" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:16Z" user="Pieren" uid="17286" lat="48.8690054" lon="2.3115348"/>
+ <node id="810136597" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:16Z" user="Pieren" uid="17286" lat="48.8693491" lon="2.3114530"/>
+ <node id="810136606" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:16Z" user="Pieren" uid="17286" lat="48.8694212" lon="2.3114666"/>
+ <node id="810136625" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:16Z" user="Pieren" uid="17286" lat="48.8692423" lon="2.3114835"/>
+ <node id="810136635" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:16Z" user="Pieren" uid="17286" lat="48.8690125" lon="2.3117378"/>
+ <node id="810136643" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:17Z" user="Pieren" uid="17286" lat="48.8692596" lon="2.3115588"/>
+ <node id="810136655" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:17Z" user="Pieren" uid="17286" lat="48.8692541" lon="2.3111795"/>
+ <node id="810136667" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:17Z" user="Pieren" uid="17286" lat="48.8690890" lon="2.3117390"/>
+ <node id="810136681" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:17Z" user="Pieren" uid="17286" lat="48.8693123" lon="2.3115646"/>
+ <node id="810136701" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:18Z" user="Pieren" uid="17286" lat="48.8691993" lon="2.3112085"/>
+ <node id="810136704" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:18Z" user="Pieren" uid="17286" lat="48.8692397" lon="2.3114271"/>
+ <node id="810136714" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:18Z" user="Pieren" uid="17286" lat="48.8692570" lon="2.3116177"/>
+ <node id="810136725" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:18Z" user="Pieren" uid="17286" lat="48.8693969" lon="2.3115625"/>
+ <node id="810136728" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:18Z" user="Pieren" uid="17286" lat="48.8693240" lon="2.3114518"/>
+ <node id="810136734" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:18Z" user="Pieren" uid="17286" lat="48.8690248" lon="2.3115468"/>
+ <node id="810136757" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:19Z" user="Pieren" uid="17286" lat="48.8692761" lon="2.3114311"/>
+ <node id="810136767" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:19Z" user="Pieren" uid="17286" lat="48.8689659" lon="2.3116677"/>
+ <node id="810136775" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:19Z" user="Pieren" uid="17286" lat="48.8693571" lon="2.3115207"/>
+ <node id="810136781" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:19Z" user="Pieren" uid="17286" lat="48.8693019" lon="2.3111685"/>
+ <node id="810136804" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:20Z" user="Pieren" uid="17286" lat="48.8690490" lon="2.3117429"/>
+ <node id="810136809" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:20Z" user="Pieren" uid="17286" lat="48.8692203" lon="2.3115252"/>
+ <node id="810136830" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:20Z" user="Pieren" uid="17286" lat="48.8691680" lon="2.3117016"/>
+ <node id="810136835" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:20Z" user="Pieren" uid="17286" lat="48.8693342" lon="2.3115248"/>
+ <node id="810136845" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:21Z" user="Pieren" uid="17286" lat="48.8692413" lon="2.3115104"/>
+ <node id="810136847" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:21Z" user="Pieren" uid="17286" lat="48.8690889" lon="2.3112726"/>
+ <node id="810136852" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:21Z" user="Pieren" uid="17286" lat="48.8692787" lon="2.3113999"/>
+ <node id="810136869" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:21Z" user="Pieren" uid="17286" lat="48.8692431" lon="2.3115834"/>
+ <node id="810136880" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:21Z" user="Pieren" uid="17286" lat="48.8693350" lon="2.3114265"/>
+ <node id="810136889" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:21Z" user="Pieren" uid="17286" lat="48.8694259" lon="2.3114961"/>
+ <node id="810136899" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:22Z" user="Pieren" uid="17286" lat="48.8692500" lon="2.3114585"/>
+ <node id="810136915" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:22Z" user="Pieren" uid="17286" lat="48.8689926" lon="2.3117184"/>
+ <node id="810136920" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:22Z" user="Pieren" uid="17286" lat="48.8692472" lon="2.3115373"/>
+ <node id="810136935" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:22Z" user="Pieren" uid="17286" lat="48.8692714" lon="2.3111678"/>
+ <node id="810136950" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:23Z" user="Pieren" uid="17286" lat="48.8692971" lon="2.3115728"/>
+ <node id="810136960" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:23Z" user="Pieren" uid="17286" lat="48.8692063" lon="2.3112443"/>
+ <node id="810136967" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:23Z" user="Pieren" uid="17286" lat="48.8692269" lon="2.3114555"/>
+ <node id="810136983" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:24Z" user="Pieren" uid="17286" lat="48.8693488" lon="2.3115538"/>
+ <node id="810136987" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:24Z" user="Pieren" uid="17286" lat="48.8692342" lon="2.3116499"/>
+ <node id="810136993" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:24Z" user="Pieren" uid="17286" lat="48.8693836" lon="2.3115667"/>
+ <node id="810137000" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:24Z" user="Pieren" uid="17286" lat="48.8693332" lon="2.3114734"/>
+ <node id="810137004" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:24Z" user="Pieren" uid="17286" lat="48.8690507" lon="2.3114649"/>
+ <node id="810137010" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:24Z" user="Pieren" uid="17286" lat="48.8692925" lon="2.3114287"/>
+ <node id="810137019" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:25Z" user="Pieren" uid="17286" lat="48.8689678" lon="2.3116524"/>
+ <node id="810137020" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:25Z" user="Pieren" uid="17286" lat="48.8693574" lon="2.3114826"/>
+ <node id="810137027" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:25Z" user="Pieren" uid="17286" lat="48.8694382" lon="2.3114345"/>
+ <node id="810137055" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:25Z" user="Pieren" uid="17286" lat="48.8690255" lon="2.3117428"/>
+ <node id="810137064" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:26Z" user="Pieren" uid="17286" lat="48.8692288" lon="2.3115599"/>
+ <node id="810137077" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:26Z" user="Pieren" uid="17286" lat="48.8691278" lon="2.3117255"/>
+ <node id="810137095" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:26Z" user="Pieren" uid="17286" lat="48.8693259" lon="2.3115473"/>
+ <node id="810137103" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:26Z" user="Pieren" uid="17286" lat="48.8691109" lon="2.3112389"/>
+ <node id="810144154" visible="true" version="1" changeset="5183354" timestamp="2010-07-10T15:15:30Z" user="Pieren" uid="17286" lat="48.8690195" lon="2.3115435"/>
+ <node id="810211048" visible="true" version="1" changeset="5183790" timestamp="2010-07-10T16:17:44Z" user="Pieren" uid="17286" lat="48.8691083" lon="2.3112429"/>
+ <node id="1984099769" visible="true" version="2" changeset="26549666" timestamp="2014-11-04T14:38:22Z" user="althio" uid="2381194" lat="48.8691965" lon="2.3117280">
+  <tag k="leaf_type" v="broadleaved"/>
+  <tag k="natural" v="tree"/>
+  <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"/>
+  <tag k="species" v="Aesculus hippocastanum"/>
+  <tag k="species:en" v="horse-chesnut"/>
+ </node>
+ <node id="3098036516" visible="true" version="3" changeset="56874032" timestamp="2018-03-04T17:28:28Z" user="GeorgeKaplan" uid="1198089" lat="48.8691241" lon="2.3116227">
+  <tag k="circumference" v="0.75"/>
+  <tag k="height" v="4"/>
+  <tag k="natural" v="tree"/>
+  <tag k="ref:opendataparis:adresse" v="JARDINS DES CHAMPS ELYSEES"/>
+  <tag k="ref:opendataparis:domanialit" v="JARDIN"/>
+  <tag k="source" v="opendata.paris.fr"/>
+  <tag k="taxon:species" v="Prunus serrulata"/>
+  <tag k="taxon:species:varietas" v="Kanzan"/>
+ </node>
+ <node id="3098036518" visible="true" version="3" changeset="56874032" timestamp="2018-03-04T17:28:28Z" user="GeorgeKaplan" uid="1198089" lat="48.8691615" lon="2.3117669">
+  <tag k="circumference" v="0.95"/>
+  <tag k="height" v="8"/>
+  <tag k="natural" v="tree"/>
+  <tag k="ref:opendataparis:adresse" v="JARDINS DES CHAMPS ELYSEES"/>
+  <tag k="ref:opendataparis:domanialit" v="JARDIN"/>
+  <tag k="source" v="opendata.paris.fr"/>
+  <tag k="taxon:species" v="Tilia tomentosa"/>
+ </node>
+ <node id="3098036525" visible="true" version="3" changeset="56876466" timestamp="2018-03-04T17:29:06Z" user="GeorgeKaplan" uid="1198089" lat="48.8692498" lon="2.3113846">
+  <tag k="circumference" v="0.15"/>
+  <tag k="height" v="5"/>
+  <tag k="natural" v="tree"/>
+  <tag k="ref:opendataparis:adresse" v="JARDINS DES CHAMPS ELYSEES"/>
+  <tag k="ref:opendataparis:domanialit" v="JARDIN"/>
+  <tag k="source" v="opendata.paris.fr"/>
+  <tag k="taxon:species" v="Firmiana simplex"/>
+ </node>
+ <way id="67037024" visible="true" version="1" changeset="5183288" timestamp="2010-07-10T15:08:32Z" user="Pieren" uid="17286">
+  <nd ref="810136845"/>
+  <nd ref="810136625"/>
+  <nd ref="810136899"/>
+  <nd ref="810136496"/>
+  <nd ref="810136757"/>
+  <nd ref="810137010"/>
+  <nd ref="810136587"/>
+  <nd ref="810136728"/>
+  <nd ref="810137000"/>
+  <nd ref="810136576"/>
+  <nd ref="810136835"/>
+  <nd ref="810137095"/>
+  <nd ref="810136681"/>
+  <nd ref="810136950"/>
+  <nd ref="810136538"/>
+  <nd ref="810136643"/>
+  <nd ref="810136920"/>
+  <nd ref="810136845"/>
+  <tag k="landuse" v="grass"/>
+  <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+ </way>
+ <way id="473189676" visible="true" version="2" changeset="75581614" timestamp="2019-10-11T18:34:26Z" user="Britzz" uid="7550430">
+  <nd ref="810136655"/>
+  <nd ref="810136935"/>
+  <nd ref="810136525"/>
+  <nd ref="810136781"/>
+  <nd ref="810137027"/>
+  <nd ref="810136606"/>
+  <nd ref="810136889"/>
+  <nd ref="810136476"/>
+  <nd ref="810136467"/>
+  <nd ref="810136725"/>
+  <nd ref="810136993"/>
+  <nd ref="810136568"/>
+  <nd ref="810136983"/>
+  <nd ref="810136775"/>
+  <nd ref="810137020"/>
+  <nd ref="810136597"/>
+  <nd ref="810136880"/>
+  <nd ref="810136470"/>
+  <nd ref="810136585"/>
+  <nd ref="810136852"/>
+  <nd ref="810136446"/>
+  <nd ref="810136704"/>
+  <nd ref="810136967"/>
+  <nd ref="810136544"/>
+  <nd ref="810136809"/>
+  <nd ref="810137064"/>
+  <nd ref="810136869"/>
+  <nd ref="810136456"/>
+  <nd ref="810136714"/>
+  <nd ref="810136987"/>
+  <nd ref="810136563"/>
+  <nd ref="810136830"/>
+  <nd ref="810137077"/>
+  <nd ref="810136667"/>
+  <nd ref="810136804"/>
+  <nd ref="810137055"/>
+  <nd ref="810136635"/>
+  <nd ref="810136915"/>
+  <nd ref="810136517"/>
+  <nd ref="810136767"/>
+  <nd ref="810137019"/>
+  <nd ref="810136595"/>
+  <nd ref="810144154"/>
+  <nd ref="810136734"/>
+  <nd ref="810137004"/>
+  <nd ref="810136582"/>
+  <nd ref="810136847"/>
+  <nd ref="810211048"/>
+  <nd ref="810137103"/>
+  <nd ref="810136701"/>
+  <nd ref="810136960"/>
+  <nd ref="810136541"/>
+  <nd ref="810136655"/>
+  <tag k="landuse" v="grass"/>
+  <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+ </way>
+</osm>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSMCityCoder", "OSMCityCoder\OSMCityCoder.csproj", "{94C39DB7-D592-429A-A6A3-6FCCABA4C533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C39DB7-D592-429A-A6A3-6FCCABA4C533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C39DB7-D592-429A-A6A3-6FCCABA4C533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C39DB7-D592-429A-A6A3-6FCCABA4C533}.Debug|x64.ActiveCfg = Debug|x64
+		{94C39DB7-D592-429A-A6A3-6FCCABA4C533}.Debug|x64.Build.0 = Debug|x64
+		{94C39DB7-D592-429A-A6A3-6FCCABA4C533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C39DB7-D592-429A-A6A3-6FCCABA4C533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C39DB7-D592-429A-A6A3-6FCCABA4C533}.Release|x64.ActiveCfg = Release|x64
+		{94C39DB7-D592-429A-A6A3-6FCCABA4C533}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAAB880B-6C9B-4071-B577-CA3E29F52518}
+	EndGlobalSection
+EndGlobal

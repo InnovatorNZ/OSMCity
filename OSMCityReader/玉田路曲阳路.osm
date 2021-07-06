@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.1 (16746 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="31.2810200" minlon="121.4855000" maxlat="31.2812700" maxlon="121.4865100"/>
+ <node id="210669458" visible="true" version="11" changeset="59829821" timestamp="2018-06-14T03:32:18Z" user="Stenive" uid="3836466" lat="31.2704358" lon="121.4897757"/>
+ <node id="265745257" visible="true" version="1" changeset="483389" timestamp="2008-05-19T15:52:42Z" user="egon" uid="38553" lat="31.2784381" lon="121.4860290"/>
+ <node id="265747567" visible="true" version="5" changeset="18112257" timestamp="2013-09-30T15:00:28Z" user="zzcolin" uid="527986" lat="31.2733985" lon="121.4879940"/>
+ <node id="265747568" visible="true" version="1" changeset="483389" timestamp="2008-05-19T16:13:57Z" user="egon" uid="38553" lat="31.2753571" lon="121.4867500"/>
+ <node id="265747569" visible="true" version="1" changeset="483389" timestamp="2008-05-19T16:13:57Z" user="egon" uid="38553" lat="31.2760907" lon="121.4863036"/>
+ <node id="265747570" visible="true" version="4" changeset="12771864" timestamp="2012-08-18T11:16:16Z" user="zzcolin" uid="527986" lat="31.2764157" lon="121.4861554"/>
+ <node id="265747571" visible="true" version="1" changeset="483389" timestamp="2008-05-19T16:13:57Z" user="egon" uid="38553" lat="31.2770957" lon="121.4859775"/>
+ <node id="265747572" visible="true" version="1" changeset="483389" timestamp="2008-05-19T16:13:57Z" user="egon" uid="38553" lat="31.2776092" lon="121.4859775"/>
+ <node id="265747573" visible="true" version="5" changeset="13712769" timestamp="2012-11-01T16:35:23Z" user="miklas" uid="580542" lat="31.2811649" lon="121.4861448">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="265747574" visible="true" version="5" changeset="13712769" timestamp="2012-11-01T16:35:23Z" user="miklas" uid="580542" lat="31.2842454" lon="121.4862693">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="265747575" visible="true" version="2" changeset="12788379" timestamp="2012-08-19T21:47:51Z" user="Xylem" uid="66160" lat="31.2872362" lon="121.4863767"/>
+ <node id="265972983" visible="true" version="3" changeset="12775170" timestamp="2012-08-18T17:13:45Z" user="zzcolin" uid="527986" lat="31.2810379" lon="121.4919180"/>
+ <node id="265972984" visible="true" version="3" changeset="12775170" timestamp="2012-08-18T17:13:45Z" user="zzcolin" uid="527986" lat="31.2811182" lon="121.4882387"/>
+ <node id="265973068" visible="true" version="2" changeset="12775170" timestamp="2012-08-18T17:13:45Z" user="zzcolin" uid="527986" lat="31.2810631" lon="121.4903657"/>
+ <node id="475846876" visible="true" version="2" changeset="12775170" timestamp="2012-08-18T17:13:48Z" user="zzcolin" uid="527986" lat="31.2812268" lon="121.4841756"/>
+ <node id="475846877" visible="true" version="2" changeset="12775170" timestamp="2012-08-18T17:13:48Z" user="zzcolin" uid="527986" lat="31.2813093" lon="121.4833122"/>
+ <node id="475846878" visible="true" version="3" changeset="12775170" timestamp="2012-08-18T17:13:48Z" user="zzcolin" uid="527986" lat="31.2817264" lon="121.4815627">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="475857485" visible="true" version="5" changeset="41974073" timestamp="2016-09-07T08:46:51Z" user="Stenive" uid="3836466" lat="31.2876233" lon="121.4863885">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="note" v="W-N Turn Prohibited&#10;禁止西向北转弯"/>
+ </node>
+ <node id="558631524" visible="true" version="3" changeset="12837259" timestamp="2012-08-23T20:21:41Z" user="Xylem" uid="66160" lat="31.2703021" lon="121.4898739"/>
+ <node id="564279249" visible="true" version="2" changeset="12788379" timestamp="2012-08-19T21:47:53Z" user="Xylem" uid="66160" lat="31.2871625" lon="121.4862625"/>
+ <node id="564279271" visible="true" version="4" changeset="41974073" timestamp="2016-09-07T08:46:51Z" user="Stenive" uid="3836466" lat="31.2877951" lon="121.4862637">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="note" v="E-S Turn Prohibited&#10;禁止东向南转弯"/>
+ </node>
+ <node id="564279296" visible="true" version="4" changeset="13712769" timestamp="2012-11-01T16:35:23Z" user="miklas" uid="580542" lat="31.2876256" lon="121.4862536">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="564279528" visible="true" version="2" changeset="39809510" timestamp="2016-06-05T05:26:51Z" user="Stenive" uid="3836466" lat="31.2853617" lon="121.4861609"/>
+ <node id="564279534" visible="true" version="1" changeset="3117617" timestamp="2009-11-14T22:30:18Z" user="Xylem" uid="66160" lat="31.2823136" lon="121.4860299"/>
+ <node id="564280346" visible="true" version="3" changeset="13712769" timestamp="2012-11-01T16:35:23Z" user="miklas" uid="580542" lat="31.2811736" lon="121.4859692">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="564280388" visible="true" version="1" changeset="3117617" timestamp="2009-11-14T22:30:46Z" user="Xylem" uid="66160" lat="31.2794308" lon="121.4859355"/>
+ <node id="564280400" visible="true" version="1" changeset="3117617" timestamp="2009-11-14T22:30:46Z" user="Xylem" uid="66160" lat="31.2774869" lon="121.4858497"/>
+ <node id="564280409" visible="true" version="1" changeset="3117617" timestamp="2009-11-14T22:30:46Z" user="Xylem" uid="66160" lat="31.2771421" lon="121.4858582"/>
+ <node id="564280417" visible="true" version="1" changeset="3117617" timestamp="2009-11-14T22:30:46Z" user="Xylem" uid="66160" lat="31.2768560" lon="121.4859097"/>
+ <node id="564280423" visible="true" version="2" changeset="12771864" timestamp="2012-08-18T11:16:20Z" user="zzcolin" uid="527986" lat="31.2763873" lon="121.4860320"/>
+ <node id="564280920" visible="true" version="2" changeset="9807218" timestamp="2011-11-12T18:42:34Z" user="Xylem" uid="66160" lat="31.2733457" lon="121.4879083"/>
+ <node id="564280935" visible="true" version="5" changeset="59829821" timestamp="2018-06-14T03:32:18Z" user="Stenive" uid="3836466" lat="31.2703729" lon="121.4897024"/>
+ <node id="564280994" visible="true" version="2" changeset="9807218" timestamp="2011-11-12T18:42:35Z" user="Xylem" uid="66160" lat="31.2702460" lon="121.4898049"/>
+ <node id="564281041" visible="true" version="2" changeset="12771864" timestamp="2012-08-18T11:16:20Z" user="zzcolin" uid="527986" lat="31.2762582" lon="121.4860857"/>
+ <node id="564281046" visible="true" version="1" changeset="3117617" timestamp="2009-11-14T22:31:13Z" user="Xylem" uid="66160" lat="31.2758290" lon="121.4863131"/>
+ <node id="564281053" visible="true" version="2" changeset="9807218" timestamp="2011-11-12T18:42:34Z" user="Xylem" uid="66160" lat="31.2739456" lon="121.4875703"/>
+ <node id="564281057" visible="true" version="2" changeset="9807218" timestamp="2011-11-12T18:42:36Z" user="Xylem" uid="66160" lat="31.2711694" lon="121.4892159"/>
+ <node id="829487525" visible="true" version="1" changeset="5290740" timestamp="2010-07-22T20:58:01Z" user="Xylem" uid="66160" lat="31.2785628" lon="121.4860342"/>
+ <node id="829488048" visible="true" version="1" changeset="5290740" timestamp="2010-07-22T20:58:42Z" user="Xylem" uid="66160" lat="31.2785717" lon="121.4858835"/>
+ <node id="829488081" visible="true" version="2" changeset="5290740" timestamp="2010-07-22T20:58:53Z" user="Xylem" uid="66160" lat="31.2784340" lon="121.4858745"/>
+ <node id="1500354927" visible="true" version="1" changeset="9807218" timestamp="2011-11-12T18:42:21Z" user="Xylem" uid="66160" lat="31.2708384" lon="121.4895297"/>
+ <node id="1500354989" visible="true" version="1" changeset="9807218" timestamp="2011-11-12T18:42:22Z" user="Xylem" uid="66160" lat="31.2707824" lon="121.4894401"/>
+ <node id="1871659194" visible="true" version="1" changeset="12775170" timestamp="2012-08-18T17:13:12Z" user="zzcolin" uid="527986" lat="31.2810406" lon="121.4917550"/>
+ <node id="1871659196" visible="true" version="1" changeset="12775170" timestamp="2012-08-18T17:13:12Z" user="zzcolin" uid="527986" lat="31.2811138" lon="121.4884073"/>
+ <node id="1871659198" visible="true" version="1" changeset="12775170" timestamp="2012-08-18T17:13:12Z" user="zzcolin" uid="527986" lat="31.2811225" lon="121.4880473"/>
+ <node id="1871659200" visible="true" version="1" changeset="12775170" timestamp="2012-08-18T17:13:12Z" user="zzcolin" uid="527986" lat="31.2812386" lon="121.4839630"/>
+ <node id="1871659202" visible="true" version="1" changeset="12775170" timestamp="2012-08-18T17:13:12Z" user="zzcolin" uid="527986" lat="31.2812544" lon="121.4837397"/>
+ <node id="1871659204" visible="true" version="1" changeset="12775170" timestamp="2012-08-18T17:13:12Z" user="zzcolin" uid="527986" lat="31.2812791" lon="121.4835241"/>
+ <node id="1871659213" visible="true" version="1" changeset="12775170" timestamp="2012-08-18T17:13:13Z" user="zzcolin" uid="527986" lat="31.2813465" lon="121.4831154"/>
+ <node id="1871659214" visible="true" version="1" changeset="12775170" timestamp="2012-08-18T17:13:13Z" user="zzcolin" uid="527986" lat="31.2814038" lon="121.4828779"/>
+ <node id="1871659222" visible="true" version="1" changeset="12775170" timestamp="2012-08-18T17:13:13Z" user="zzcolin" uid="527986" lat="31.2816844" lon="121.4817339"/>
+ <node id="1871659320" visible="true" version="2" changeset="13712769" timestamp="2012-11-01T16:35:23Z" user="miklas" uid="580542" lat="31.2842491" lon="121.4860954">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="4226218459" visible="true" version="1" changeset="39809510" timestamp="2016-06-05T05:26:47Z" user="Stenive" uid="3836466" lat="31.2860016" lon="121.4863349">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="曲阳路中山北二路"/>
+  <tag k="name:en" v="Quyang Road at North Zhongshan No.2 Road"/>
+  <tag k="public_transport" v="stop_position"/>
+ </node>
+ <node id="4226218460" visible="true" version="1" changeset="39809510" timestamp="2016-06-05T05:26:47Z" user="Stenive" uid="3836466" lat="31.2858266" lon="121.4861871">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="曲阳路中山北二路"/>
+  <tag k="name:en" v="Quyang Road at North Zhongshan No.2 Road"/>
+  <tag k="public_transport" v="stop_position"/>
+ </node>
+ <way id="24450885" visible="true" version="28" changeset="40384523" timestamp="2016-06-30T07:02:41Z" user="Stenive" uid="3836466">
+  <nd ref="558631524"/>
+  <nd ref="210669458"/>
+  <nd ref="1500354927"/>
+  <nd ref="265747567"/>
+  <nd ref="265747568"/>
+  <nd ref="265747569"/>
+  <nd ref="265747570"/>
+  <nd ref="265747571"/>
+  <nd ref="265747572"/>
+  <nd ref="265745257"/>
+  <nd ref="829487525"/>
+  <nd ref="265747573"/>
+  <nd ref="265747574"/>
+  <nd ref="4226218459"/>
+  <nd ref="265747575"/>
+  <nd ref="475857485"/>
+  <tag k="cycleway" v="lane"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="曲阳路"/>
+  <tag k="name:en" v="Quyang Road"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="176637365" visible="true" version="2" changeset="12775170" timestamp="2012-08-18T17:13:40Z" user="zzcolin" uid="527986">
+  <nd ref="475846878"/>
+  <nd ref="1871659222"/>
+  <nd ref="1871659214"/>
+  <nd ref="1871659213"/>
+  <nd ref="475846877"/>
+  <nd ref="1871659204"/>
+  <nd ref="1871659202"/>
+  <nd ref="1871659200"/>
+  <nd ref="475846876"/>
+  <nd ref="564280346"/>
+  <nd ref="265747573"/>
+  <nd ref="1871659198"/>
+  <nd ref="265972984"/>
+  <nd ref="1871659196"/>
+  <nd ref="265973068"/>
+  <nd ref="1871659194"/>
+  <nd ref="265972983"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="玉田路"/>
+  <tag k="name:en" v="Yutian Road"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="428147193" visible="true" version="1" changeset="40384523" timestamp="2016-06-30T07:02:33Z" user="Stenive" uid="3836466">
+  <nd ref="564279271"/>
+  <nd ref="564279296"/>
+  <nd ref="564279249"/>
+  <nd ref="4226218460"/>
+  <nd ref="564279528"/>
+  <nd ref="1871659320"/>
+  <nd ref="564279534"/>
+  <nd ref="564280346"/>
+  <nd ref="564280388"/>
+  <nd ref="829488048"/>
+  <nd ref="829488081"/>
+  <nd ref="564280400"/>
+  <nd ref="564280409"/>
+  <nd ref="564280417"/>
+  <nd ref="564280423"/>
+  <nd ref="564281041"/>
+  <nd ref="564281046"/>
+  <nd ref="564281053"/>
+  <nd ref="564280920"/>
+  <nd ref="564281057"/>
+  <nd ref="1500354989"/>
+  <nd ref="564280935"/>
+  <nd ref="564280994"/>
+  <tag k="cycleway" v="lane"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="曲阳路"/>
+  <tag k="name:en" v="Quyang Road"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <relation id="6367959" visible="true" version="1" changeset="40384523" timestamp="2016-06-30T07:02:35Z" user="Stenive" uid="3836466">
+  <member type="way" ref="176876587" role="from"/>
+  <member type="node" ref="475857485" role="via"/>
+  <member type="way" ref="428147191" role="to"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="6367960" visible="true" version="1" changeset="40384523" timestamp="2016-06-30T07:02:35Z" user="Stenive" uid="3836466">
+  <member type="way" ref="50773677" role="from"/>
+  <member type="node" ref="564279271" role="via"/>
+  <member type="way" ref="428147193" role="to"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+</osm>

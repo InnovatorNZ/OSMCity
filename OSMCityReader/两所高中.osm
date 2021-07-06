@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.1 (32121 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="31.2780300" minlon="121.4843000" maxlat="31.2783700" maxlon="121.4856300"/>
+ <node id="3114699630" visible="true" version="1" changeset="25896116" timestamp="2014-10-06T12:26:06Z" user="Matthewmayer" uid="164748" lat="31.2780971" lon="121.4855093">
+  <tag k="railway" v="subway_entrance"/>
+  <tag k="ref" v="5"/>
+ </node>
+ <node id="5621621165" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:09Z" user="BaoGuo" uid="8280278" lat="31.2783284" lon="121.4846384"/>
+ <node id="5621621166" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:09Z" user="BaoGuo" uid="8280278" lat="31.2781569" lon="121.4846301"/>
+ <node id="5621621167" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:09Z" user="BaoGuo" uid="8280278" lat="31.2781283" lon="121.4850857"/>
+ <node id="5621621168" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:09Z" user="BaoGuo" uid="8280278" lat="31.2781926" lon="121.4850940"/>
+ <node id="5621621169" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:09Z" user="BaoGuo" uid="8280278" lat="31.2781855" lon="121.4852027"/>
+ <node id="5621621170" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:09Z" user="BaoGuo" uid="8280278" lat="31.2781069" lon="121.4851943"/>
+ <node id="5621621171" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2780712" lon="121.4855371"/>
+ <node id="5621621172" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2781783" lon="121.4855120"/>
+ <node id="5621621173" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2782426" lon="121.4853699"/>
+ <node id="5621621174" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2783141" lon="121.4851149"/>
+ <node id="5621621175" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2783176" lon="121.4844545"/>
+ <node id="5621621176" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2783141" lon="121.4846092"/>
+ <node id="5621621177" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2780390" lon="121.4846008"/>
+ <node id="5621621178" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2780497" lon="121.4843876"/>
+ <node id="5621621179" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2781855" lon="121.4843918"/>
+ <node id="5621621180" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2781819" lon="121.4844503"/>
+ <way id="588611931" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:16Z" user="BaoGuo" uid="8280278">
+  <nd ref="5621621165"/>
+  <nd ref="5621621166"/>
+  <nd ref="5621621167"/>
+  <nd ref="5621621168"/>
+  <nd ref="5621621169"/>
+  <nd ref="5621621170"/>
+  <nd ref="5621621171"/>
+  <nd ref="3114699630"/>
+  <nd ref="5621621172"/>
+  <nd ref="5621621173"/>
+  <nd ref="5621621174"/>
+  <nd ref="5621621165"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="高中"/>
+ </way>
+ <way id="588611932" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:16Z" user="BaoGuo" uid="8280278">
+  <nd ref="5621621175"/>
+  <nd ref="5621621176"/>
+  <nd ref="5621621177"/>
+  <nd ref="5621621178"/>
+  <nd ref="5621621179"/>
+  <nd ref="5621621180"/>
+  <nd ref="5621621175"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="高中"/>
+ </way>
+ <relation id="7849255" visible="true" version="1" changeset="55008347" timestamp="2017-12-29T12:20:25Z" user="Stenive" uid="3836466">
+  <member type="node" ref="5306355602" role=""/>
+  <member type="node" ref="5019791135" role="stop"/>
+  <member type="node" ref="301638516" role="stop"/>
+  <member type="node" ref="3114683537" role=""/>
+  <member type="node" ref="3114705129" role=""/>
+  <member type="node" ref="3114693031" role=""/>
+  <member type="node" ref="3114693032" role=""/>
+  <member type="node" ref="3114699630" role=""/>
+  <member type="node" ref="3114699631" role=""/>
+  <tag k="name" v="曲阳路"/>
+  <tag k="name:en" v="Quyang Road"/>
+  <tag k="name:zh" v="曲阳路"/>
+  <tag k="public_transport" v="stop_area"/>
+  <tag k="type" v="public_transport"/>
+ </relation>
+</osm>

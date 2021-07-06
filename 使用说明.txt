@@ -1,0 +1,4 @@
+如何使用：
+如果是要在Unity里预览生成的模型，请用Unity（版本≥2018.3.7f）打开OSMCityPreview，然后将osm文件放到samples/中并在getFileName()函数内修改文件名。
+如果是要导出成Minecraft存档，先准备一份OSM文件至根目录，然后用PowerShell运行ExportToMinecraft.ps1脚本，得到的存档将自动拷贝至你的Minecraft Win10版目录内；你也可以在OSMCityGenerator/OSMCustomed得到这份存档并分享给别人。
+另外所用的OSM文件不要太大，除非你的电脑内存足够大。生成过程大概需要5-10分钟不等，取决于你的OSM文件规模。

@@ -1,0 +1,7 @@
+*.pyc
+*.egg-info/
+test.py
+block.txt
+OSMCustomed/
+.idea/
+*.log

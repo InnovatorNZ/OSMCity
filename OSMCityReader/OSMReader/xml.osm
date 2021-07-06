@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.1 (5606 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="31.2783700" minlon="121.4833300" maxlat="31.2785000" maxlon="121.4852200"/>
+ <node id="265745257" visible="true" version="1" changeset="483389" timestamp="2008-05-19T15:52:42Z" user="egon" uid="38553" lat="31.2784381" lon="121.4860290"/>
+ <node id="829477313" visible="true" version="1" changeset="5290740" timestamp="2010-07-22T20:48:02Z" user="Xylem" uid="66160" lat="31.2783464" lon="121.4822145"/>
+ <node id="829484246" visible="true" version="6" changeset="59829821" timestamp="2018-06-14T03:32:18Z" user="Stenive" uid="3836466" lat="31.2768503" lon="121.4968837">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="829487333" visible="true" version="2" changeset="9807218" timestamp="2011-11-12T18:42:33Z" user="Xylem" uid="66160" lat="31.2772422" lon="121.4963983"/>
+ <node id="829487337" visible="true" version="1" changeset="5290740" timestamp="2010-07-22T20:57:48Z" user="Xylem" uid="66160" lat="31.2777097" lon="121.4955841"/>
+ <node id="829487339" visible="true" version="2" changeset="39122644" timestamp="2016-05-05T15:12:28Z" user="Stenive" uid="3836466" lat="31.2781045" lon="121.4947220"/>
+ <node id="829487341" visible="true" version="2" changeset="39122644" timestamp="2016-05-05T15:12:28Z" user="Stenive" uid="3836466" lat="31.2781629" lon="121.4945044"/>
+ <node id="829487344" visible="true" version="1" changeset="5290740" timestamp="2010-07-22T20:57:48Z" user="Xylem" uid="66160" lat="31.2782048" lon="121.4942215"/>
+ <node id="829487346" visible="true" version="2" changeset="39122644" timestamp="2016-05-05T15:12:28Z" user="Stenive" uid="3836466" lat="31.2782248" lon="121.4940154"/>
+ <node id="829487348" visible="true" version="1" changeset="5290740" timestamp="2010-07-22T20:57:48Z" user="Xylem" uid="66160" lat="31.2782782" lon="121.4925800"/>
+ <node id="829487350" visible="true" version="2" changeset="12771864" timestamp="2012-08-18T11:16:21Z" user="zzcolin" uid="527986" lat="31.2782664" lon="121.4921384"/>
+ <node id="829487679" visible="true" version="1" changeset="5290740" timestamp="2010-07-22T20:58:08Z" user="Xylem" uid="66160" lat="31.2783616" lon="121.4887824"/>
+ <node id="829488006" visible="true" version="1" changeset="5290740" timestamp="2010-07-22T20:58:39Z" user="Xylem" uid="66160" lat="31.2784340" lon="121.4833961"/>
+ <node id="829488009" visible="true" version="1" changeset="5290740" timestamp="2010-07-22T20:58:40Z" user="Xylem" uid="66160" lat="31.2784157" lon="121.4825807"/>
+ <node id="829488081" visible="true" version="2" changeset="5290740" timestamp="2010-07-22T20:58:53Z" user="Xylem" uid="66160" lat="31.2784340" lon="121.4858745"/>
+ <node id="4167694469" visible="true" version="1" changeset="39122644" timestamp="2016-05-05T15:12:24Z" user="Stenive" uid="3836466" lat="31.2779486" lon="121.4951575"/>
+ <way id="69156898" visible="true" version="10" changeset="76010753" timestamp="2019-10-21T17:19:44Z" user="Kostik" uid="384084">
+  <nd ref="829477313"/>
+  <nd ref="829488009"/>
+  <nd ref="829488006"/>
+  <nd ref="829488081"/>
+  <nd ref="265745257"/>
+  <nd ref="829487679"/>
+  <nd ref="829487350"/>
+  <nd ref="829487348"/>
+  <nd ref="829487346"/>
+  <nd ref="829487344"/>
+  <nd ref="829487341"/>
+  <nd ref="829487339"/>
+  <nd ref="4167694469"/>
+  <nd ref="829487337"/>
+  <nd ref="829487333"/>
+  <nd ref="829484246"/>
+  <tag k="cycleway" v="lane"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="大连西路"/>
+  <tag k="name:en" v="West Dalian Road"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+</osm>

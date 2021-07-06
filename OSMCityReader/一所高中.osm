@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.1 (12275 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="31.2777000" minlon="121.4844500" maxlat="31.2779900" maxlon="121.4847200"/>
+ <node id="5621621181" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2779354" lon="121.4844921"/>
+ <node id="5621621182" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2779283" lon="121.4846802"/>
+ <node id="5621621183" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2777639" lon="121.4846719"/>
+ <node id="5621621184" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:10Z" user="BaoGuo" uid="8280278" lat="31.2777711" lon="121.4844880"/>
+ <way id="588611933" visible="true" version="1" changeset="59010770" timestamp="2018-05-16T09:25:16Z" user="BaoGuo" uid="8280278">
+  <nd ref="5621621181"/>
+  <nd ref="5621621182"/>
+  <nd ref="5621621183"/>
+  <nd ref="5621621184"/>
+  <nd ref="5621621181"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="高中"/>
+ </way>
+</osm>

@@ -1,0 +1,7 @@
+D:\Projects\OSMCity\OSMCityPreview\ConsoleApp-Trial\bin\Debug\ConsoleApp-Trial.exe.config
+D:\Projects\OSMCity\OSMCityPreview\ConsoleApp-Trial\bin\Debug\ConsoleApp-Trial.exe
+D:\Projects\OSMCity\OSMCityPreview\ConsoleApp-Trial\bin\Debug\ConsoleApp-Trial.pdb
+D:\Projects\OSMCity\OSMCityPreview\ConsoleApp-Trial\obj\Debug\ConsoleApp-Trial.csprojAssemblyReference.cache
+D:\Projects\OSMCity\OSMCityPreview\ConsoleApp-Trial\obj\Debug\ConsoleApp-Trial.csproj.CoreCompileInputs.cache
+D:\Projects\OSMCity\OSMCityPreview\ConsoleApp-Trial\obj\Debug\ConsoleApp-Trial.exe
+D:\Projects\OSMCity\OSMCityPreview\ConsoleApp-Trial\obj\Debug\ConsoleApp-Trial.pdb
